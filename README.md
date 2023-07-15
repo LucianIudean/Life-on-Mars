@@ -3,7 +3,7 @@ Describe in web pages possibility to existence life on Mars. It's a personal por
 
 ## Technologies Used
 
-The Sleepy Tigers used the following technologies to create this project:
+Lucian Iudean used the following technologies to create this project:
 
 - HTML5
 - CSS3
